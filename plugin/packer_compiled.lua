@@ -114,6 +114,11 @@ _G.packer_plugins = {
     path = "/home/dexter/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
     url = "https://github.com/nvim-treesitter/nvim-treesitter"
   },
+  ["onedark.nvim"] = {
+    loaded = true,
+    path = "/home/dexter/.local/share/nvim/site/pack/packer/start/onedark.nvim",
+    url = "https://github.com/navarasu/onedark.nvim"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/home/dexter/.local/share/nvim/site/pack/packer/start/packer.nvim",
@@ -133,11 +138,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/dexter/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
-  },
-  ["tender.vim"] = {
-    loaded = true,
-    path = "/home/dexter/.local/share/nvim/site/pack/packer/start/tender.vim",
-    url = "https://github.com/jacoborus/tender.vim"
   },
   undotree = {
     loaded = true,
